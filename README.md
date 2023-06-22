@@ -12,7 +12,7 @@ This is a concept website for a resturant named Little Lemon, which included the
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+
 
 ## Overview
 
@@ -57,6 +57,4 @@ In the future works, im aiming to improve my animation skills to make my website
 - [Framer Motion documentation](https://www.framer.com/motion/) - Framer motion made making animations much simpler and their documntation are perfect for any type of idea you have in mind.
 - [W3Schools Css Refrence](https://www.w3schools.com/cssref/index.php) - Its has any questions you might have of Css answered with live examples, very good for any type of Css research.
 
-## Author
 
-- LinkedIn - [Adel Hafri](https://www.linkedin.com/in/adel-hafri/)
