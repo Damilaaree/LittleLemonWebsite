@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/LittleLemonWebsite/static/css/main.f3c5a083.css",
+    "main.js": "/LittleLemonWebsite/static/js/main.9bb178d2.js",
+    "static/media/AboutImage.png": "/LittleLemonWebsite/static/media/AboutImage.95d43af72b1c1244c3c6.png",
+    "static/media/Lemon4.png": "/LittleLemonWebsite/static/media/Lemon4.ae0c11493848da7498d1.png",
+    "static/media/Food.jpg": "/LittleLemonWebsite/static/media/Food.06ef2e44da895ca24964.jpg",
+    "static/media/bruchettaa.jpg": "/LittleLemonWebsite/static/media/bruchettaa.c71010016f188168ea20.jpg",
+    "static/media/Logo.svg": "/LittleLemonWebsite/static/media/Logo.2c379c7ea7eb07402bfc7700915316de.svg",
+    "static/media/Salad.JPG": "/LittleLemonWebsite/static/media/Salad.00f8cac6d6853b48f4d8.JPG",
+    "static/media/FishTacos.JPG": "/LittleLemonWebsite/static/media/FishTacos.26fe3452212bb50bde16.JPG",
+    "static/media/tableMd.png": "/LittleLemonWebsite/static/media/tableMd.c94a77f81898f61c80a8.png",
+    "static/media/tableXl.png": "/LittleLemonWebsite/static/media/tableXl.d377d884ae6c015b7e5f.png",
+    "static/media/WhiteLogo.jpg": "/LittleLemonWebsite/static/media/WhiteLogo.603805c19798bf07869a.jpg",
+    "static/media/tableLg.png": "/LittleLemonWebsite/static/media/tableLg.8df4b33cc6f01fa94969.png",
+    "static/media/tableSm.png": "/LittleLemonWebsite/static/media/tableSm.15434566eeccf2ca9883.png",
+    "static/media/Haithem.JPG": "/LittleLemonWebsite/static/media/Haithem.be8c6878cce5442bb496.JPG",
+    "static/media/Zack.JPG": "/LittleLemonWebsite/static/media/Zack.cf436210543a766a604c.JPG",
+    "static/media/Jhon.JPG": "/LittleLemonWebsite/static/media/Jhon.9f83b688b40976e45e11.JPG",
+    "static/media/Emily.JPG": "/LittleLemonWebsite/static/media/Emily.36e2daf10c9a22d1250d.JPG",
+    "static/media/Harely.JPG": "/LittleLemonWebsite/static/media/Harely.95f429c0e44dac610d18.JPG",
+    "index.html": "/LittleLemonWebsite/index.html",
+    "static/media/🦆 icon _hamburger menu_.svg": "/LittleLemonWebsite/static/media/🦆 icon _hamburger menu_.2cba90d9a2294d6ec4901bf28d25c693.svg",
+    "main.f3c5a083.css.map": "/LittleLemonWebsite/static/css/main.f3c5a083.css.map",
+    "main.9bb178d2.js.map": "/LittleLemonWebsite/static/js/main.9bb178d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3c5a083.css",
+    "static/js/main.9bb178d2.js"
+  ]
+}
