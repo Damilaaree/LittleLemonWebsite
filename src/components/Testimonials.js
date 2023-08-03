@@ -28,16 +28,6 @@ export default function Testimonials() {
             review={TestimonialData[0].review}
           ></TestimonialCard>
           <TestimonialCard
-            Name={TestimonialData[1].Name}
-            Image={TestimonialData[1].Image}
-            star1={TestimonialData[1].star1}
-            star2={TestimonialData[1].star2}
-            star3={TestimonialData[1].star3}
-            star4={TestimonialData[1].star4}
-            star5={TestimonialData[1].star5}
-            review={TestimonialData[1].review}
-          ></TestimonialCard>
-          <TestimonialCard
             visibality={"hidden"}
             Name={TestimonialData[2].Name}
             Image={TestimonialData[2].Image}
